@@ -1,5 +1,5 @@
 # README
-#Monesh soni ROR Developer
+#**Monesh soni ROR Developer**
 This is active admin quill editor in rails 6.
 # If your want to use in rails 5.x version than follow below steps
 
