@@ -2,7 +2,7 @@
  **Monesh soni ROR Developer**
  
  
-This is active admin quill editor in rails 6.
+This is active admin quill editor in rails 5.x and  6.x version
 # If your want to use in rails 5.x version than follow below steps
 
 After installing Active Admin, add to your Gemfile: gem 'activeadmin_quill_editor' (and execute bundle)
